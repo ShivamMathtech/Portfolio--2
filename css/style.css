@@ -1,0 +1,80 @@
+body {
+  background-color: rgb(166, 166, 166);
+}
+.main-container {
+  height: 700px;
+  /* background-color: aquamarine; */
+}
+.header {
+  height: 100px;
+}
+.content-div {
+  height: 600px;
+}
+.services {
+  height: 600px;
+}
+.about {
+  height: 700px;
+}
+.process {
+  height: 500px;
+  background-color: aliceblue;
+}
+.testomoal {
+  height: 500px;
+  background-color: chartreuse;
+}
+.Portfolio {
+  height: 700px;
+  background-color: bisque;
+}
+.Let-talk {
+  height: 400px;
+  background-color: coral;
+}
+.footer {
+  height: 400px;
+  background-color: rgb(12, 12, 12);
+}
+.nav-link {
+  font-size: 1.4em;
+  color: white;
+}
+.btn-warning {
+  border-radius: 20px;
+  color: white;
+  width: 200px;
+}
+.nav-link:hover {
+  color: white;
+}
+.active {
+  color: yellow;
+}
+.title-img-box {
+  height: 500px;
+  background-image: url("img/title.png");
+}
+i {
+  font-size: 1.6em;
+}
+.c-1 {
+  height: 300px;
+  border-radius: 20px;
+}
+.cu-1 {
+  font-size: 2em;
+  padding: 20px;
+  display: block;
+  height: 100px;
+}
+.c-2 {
+  height: 130px;
+  border-radius: 10px;
+  background-color: #ffb6c1;
+}
+.img-box-2 {
+  height: 500px;
+  background-image: url("img/pointing.png");
+}
