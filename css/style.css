@@ -23,7 +23,7 @@ body {
 }
 .testomoal {
   height: 500px;
-  background-color: chartreuse;
+  background-color: rgb(59, 101, 16);
 }
 .Portfolio {
   height: 700px;
@@ -81,4 +81,9 @@ i {
 .img-box-3 {
   height: 400px;
   background: url("img/talk1.png");
+}
+.card-2 {
+  height: 300px;
+  background-color: #ffffff;
+  border-radius: 20px;
 }
