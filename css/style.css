@@ -31,7 +31,7 @@ body {
 }
 .Let-talk {
   height: 400px;
-  background-color: coral;
+  background-color: rgb(53, 124, 238);
 }
 .footer {
   height: 400px;
@@ -77,4 +77,8 @@ i {
 .img-box-2 {
   height: 500px;
   background-image: url("img/pointing.png");
+}
+.img-box-3 {
+  height: 400px;
+  background: url("img/talk1.png");
 }
